@@ -31,9 +31,6 @@ body {
 .container {
     background-color: hsl(0, 0%, 100%);
     border-radius: 1em;
-}
-
-.main-content {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -49,8 +46,8 @@ img {
     width: 100%;
 }
 
-.blurb {
-    margin:0 1.4em 1.4em 1.4em;
+.main-content {
+    margin:0 2em 2em 2em;
     text-align: center;
 }
 

@@ -37,8 +37,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 ### What I learned
-
 Reinforced my understanding of flexbox. 
+
 
 ### Useful resources
 
